@@ -1,3 +1,5 @@
 - name: Blog
   path: index.html
   section_id: blog
+- name: Discord
+  url: https://discord.io/OsiagnijCele
