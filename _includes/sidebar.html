@@ -16,7 +16,7 @@
   <ul>
     {% for category in site.categories %}
       <li>
-        <a href='/category/{{ category | first}}/'>{{ category | first }}</a>
+        <a href='/category/{{ category | first | slugify}}/'>{{ category | first }}</a>
       </li>
     {% endfor %}
   </ul>
