@@ -3,8 +3,8 @@ title: Osiągnij Cele
 email: krzysztof.wawer@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Osiągni swoje cele życiowe. Zaprojektuj życie pod siebie.
-domain: osiagnijcele.github.io
-url: "https://osiagnijcele.github.io" # the base hostname & protocol for your site
+domain: osiagnijcele.pl
+url: "https://osiagnijcele.pl" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 twitter_username: wafcio
 github_username:  wafcio
