@@ -8,7 +8,7 @@ categories:
 - Wyznaczanie celów
 ---
 
-Wiele mówi się o tym, że w żciu potrzebny jest balans. Poświęcając się tylko jednej dziedzinie można zaniedbać pozostałe. Nalepie sobie to zobrazować biorąc pod uwagę życie prywatne / życie rodzinne i pracę. Skupiając się za mocno tylko na jednym i zaniedbując drugie można popaść w duże kłopoty. Tak samo jest w przypadku ustalaniu i realizacji celów życiowych.
+Wiele mówi się o tym, że w życiu potrzebny jest balans. Poświęcając się tylko jednej dziedzinie można zaniedbać pozostałe. Nalepie sobie to zobrazować biorąc pod uwagę życie prywatne / życie rodzinne i pracę. Skupiając się za mocno tylko na jednym i zaniedbując drugie można popaść w duże kłopoty. Tak samo jest w przypadku ustalaniu i realizacji celów życiowych.
 
 W osiąganiu celów jedni preferują chwilowo skupić się tylko na jednym obszarze, inni natomiast wolą zbalansować realizowane cele z kilku obszarów. Mimo wszystko w dłuższej perspektywie warto zachować balans w realizowanych celach. Istnieje wiele sposobów rozdzielenia celów.
 
